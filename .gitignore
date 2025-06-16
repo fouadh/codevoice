@@ -1,0 +1,23 @@
+spring-boot
+output
+.idea
+.ipynb_checkpoints
+__pycache__
+
+# Byte-compiled / cache
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook autosaves
+*.ipynb~
+
+.venv/
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+.python-version
+
