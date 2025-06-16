@@ -24,11 +24,11 @@ pipx install uv
 # Installation
 
 ```bash
-git clone https://github.com/fouadh/code-analysis.git
+git clone https://github.com/fouadh/codevoice.git
 cd code-analysis
 uv venv
 source .venv/bin/activate
-uv pip install
+uv pip install --requirements pyproject.toml
 ```
 
 # Running the Notebook
